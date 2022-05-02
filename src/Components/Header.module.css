@@ -1,0 +1,14 @@
+.title {
+  font-size: 30px;
+  color: #4b6a9b;
+}
+@media screen and (max-width: 768px) {
+  .title {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 416px) {
+  .title {
+    font-size: 14px;
+  }
+}
